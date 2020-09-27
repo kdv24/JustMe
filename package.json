@@ -1,0 +1,23 @@
+{
+  "name": "JustMe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdv24/JustMe.git"
+  },
+  "keywords": [],
+  "author": "Kelly de Vries <kdv@me.com> (https://www.twyste.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdv24/JustMe/issues"
+  },
+  "homepage": "https://github.com/kdv24/JustMe#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
